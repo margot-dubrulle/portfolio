@@ -30,5 +30,22 @@ Bonjour, je vais te montrer comment ***mettre en italique*** une partie de phras
 🖕
 :middle_finger 
 
-
 ## 2 - HTML
+<h3> Titres et sous-titres </h3>
+<h1> Ceci est un h1 </h1>
+<h2> Ceci est un h2 </h2>
+<h3> Ceci est un h3 </h3>
+
+<h3> Les listes non-ordonnées </h3>
+<ul>
+  <li>ceci est un premier point </li>
+  <li>ceci est un deuxième point</li>
+  <li>ceci est un troisième point</li>
+</ul>
+
+
+
+
+
+
+
